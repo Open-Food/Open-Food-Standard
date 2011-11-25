@@ -1,0 +1,110 @@
+# food_source.txt
+
+## About
+This is a description of a source of supply for an element in the food system.
+This could be a community garden, urban farm, a grocery store, a community kitchen.
+
+
+## Format
+Field Name
+Details
+
+## Fields
+
+factual_id
+Factual ID
+name
+Business/POI name
+po_box
+PO Box. As they do not represent the physical location of a brick-and-mortar store, PO Boxes are often excluded from mobile use cases. We’ve isolated these for only a limited number of countries, but more will follow
+address
+Street address
+address_extended
+Additional address incl. suite numbers
+locality
+City, town or equivalent
+region
+State, province, territory, or equivalent
+admin_region
+Additional sub-division, usually but not always a country sub-division
+post_town
+Town employed in postal addressing
+postcode
+Postcode or equivalent (zipcode in US)
+country
+The ISO 3166-1 alpha-2 country code
+tel
+Telephone number with local formatting
+fax
+Fax number formatted as above
+website
+Authority page (official website)
+latitude
+Latitude in decimal degrees (WGS84 datum). Value will not exceed 6 decimal places (0.111m)
+longitude
+as above, but sideways
+category
+String name of category tree and category branch
+status
+Boolean representing business as going concern: closed (0) or open (1) We are aware that this will prove confusing to electrical engineers
+email
+Contact email address of organization
+
+resource_id
+Optional. A source of supply for an element in the food system. Should be a unique ID.
+
+resource_name
+Required. The name of the resource.
+
+resource_description
+Optional. Description of the resource.
+
+resource_type
+Optional. A type description of the resource. Standard types exist for certain kinds of resources. Refer to [@TODO] list.
+
+resource_style
+Optional. A style description of the resource. Standard styles exist for certain kinds of resources. Refer to [@TODO] list.
+
+resource_url
+Optional. Link to the resource.
+Optional. The value must be a fully qualified URL that includes http:// or https://,
+and any special characters in the URL must be correctly escaped.
+See http://www.w3.org/Addressing/URL/4_URI_Recommentations.html for a description
+of how to create fully qualified URL values.
+
+resource_keywords
+Optional. A string of comma separated keywords. Should be enclosed by double quotes.
+
+resource_location
+Optional. Look to the JSON standard and provide a serialized array for this field.
+@TODO The location field is tricky to represent as a single column. Should be
+generic for multiple countries, multiple locations, and provide address, lat/lon or WKT data.
+
+resource_email
+Optional. Email of the resource.
+
+resource_contact
+Optional. Name of person who is point of contact for the resource.
+
+resource_phone
+Optional. Phone number of the resource.
+@TODO It would really be better if these had types and could be unlimited (like in the JSON standard.)
+
+resource_attributes
+Optional. A serialized array of attributes.
+
+# resource_hours
+# Optional.
+@TODO If we roll farmer's markets in this (vs. food events) we would need to have a 
+better time description and make the time & location data match up better. 
+Or, the Farmer's Market could be a resource, and its hours could be an event with independent locations.
+Reason being, there are some food distributions with multiple locations (or there will be.)
+
+# resource_calendar
+# Optional.
+@TODO Goes with the hours.
+
+
+### Attribution
+# This standard builds upon the General Transit Feed, the Atom RSS feed standard and others.
+
