@@ -20,4 +20,8 @@ class ThingsController < ApplicationController
     end
     respond_with thing, :location => "/"
   end
+
+  def show
+    respond_with Thing.find(params[:id])
+  end
 end

@@ -26,6 +26,17 @@ describe ThingsController do
         json_response.first["name"].should == @tomato.name
       end
     end
+
+    describe 'on GET to #show with a thing id' do
+      before do
+        get :show, :id => @tomato.id, :format => :json
+      end
+
+      it 'should respond with the json representation of the thing' do
+        json_response.should_not be_nil
+        json_response["name"].should == @tomato.name
+      end
+    end
   end
 
   describe "on POST to #create via json with valid items" do
