@@ -10,10 +10,7 @@ describe PropertiesController do
       before do
         post :create,
           :thing_id => @apple.to_param,
-          :properties => [
-            {:name => "color", :value => "green"},
-            {:name => "is a", :value => "fruit"}
-          ],
+          :properties => {:color => "green", :is_a => "fruit"},
           :format => :json
       end
 
