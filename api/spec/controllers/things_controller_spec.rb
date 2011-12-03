@@ -43,4 +43,20 @@ describe ThingsController do
       json_response["name"].should == "Apple"
     end
   end
+
+  describe "on POST to #create via json with valid attributes and properties" do
+    before do
+      post :create,
+        :thing => {:name => "Apple", :type_of => "Fruit", :color => "green"},
+        :format => :json
+    end
+
+    it 'should create an apple with the relevant properties' do
+      Thing.count.should == 1
+      created_thing = Thing.first
+      created_thing.properties.count.should == 2
+      created_thing.properties.first.name.should == "type_of"
+      created_thing.properties.first.value.should == "Fruit"
+    end
+  end
 end

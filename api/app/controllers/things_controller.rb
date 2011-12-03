@@ -14,7 +14,10 @@ class ThingsController < ApplicationController
   end
 
   def create
-    thing = Thing.create(params[:thing])
+    thing = Thing.create(params[:thing].slice(:name))
+    params[:thing].slice!(:name).each do |property, value|
+      thing.properties.create(:name => property, :value => value)
+    end
     respond_with thing, :location => "/"
   end
 end
