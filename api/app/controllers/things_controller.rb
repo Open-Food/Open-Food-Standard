@@ -12,4 +12,9 @@ class ThingsController < ApplicationController
 
     respond_with @things
   end
+
+  def create
+    thing = Thing.create(params[:thing])
+    respond_with thing, :location => "/"
+  end
 end
