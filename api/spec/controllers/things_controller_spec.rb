@@ -7,9 +7,9 @@ describe ThingsController do
       2.times { Factory(:thing) }
     end
 
-    describe 'on GET to #index with keywords via json' do
+    describe 'on GET to #index with name via json' do
       before do
-        get :index, :keywords => "tomato", :format => :json
+        get :index, :name => "tomato", :format => :json
       end
 
       it 'should return successfully' do

@@ -2,10 +2,10 @@ class ThingsController < ApplicationController
   respond_to :json
 
   def index
-    keywords = params[:keywords]
+    name = params[:name]
 
-    if keywords
-      @things = Thing.where(:name => keywords)
+    if name
+      @things = Thing.where(:name => name)
     else
       @things = Thing.limit(10)
     end
