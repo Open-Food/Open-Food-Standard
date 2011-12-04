@@ -58,7 +58,7 @@ describe ThingsController do
   describe "on POST to #create via json with valid attributes and properties" do
     before do
       post :create,
-        :thing => {:name => "Apple", :type_of => "Fruit", :color => "green"},
+        :thing => {:name => "Apple", :properties => [{:name => "type_of", :value =>"Fruit"}, {:name => "color", :value => "green"}]},
         :format => :json
     end
 
