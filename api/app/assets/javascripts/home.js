@@ -20,6 +20,18 @@ $(document).ready(function() {
       })
       $("#show_thing").show();
     });
+
+    this.get("#/search", function(context) {
+      $("#things").text("");
+      console.log(this.params["name"]);
+      this.load("things.json?name="+this.params["name"], {}).then(function(things){
+        $.each(things, function(i, thing) {
+          context.render("templates/thing.template", {thing:thing}).appendTo("#things");
+        });
+      });
+      $("#things").show();
+    });
   });
+
   app.run("#/");
 });
