@@ -1,0 +1,8 @@
+<h3><%= thing.name %></h3>
+
+<ul class="properties">
+  <% for ( var i = 0; i < thing.properties.length; i++ ) { %>
+    <li><%= thing.properties[i].name %>: <%= thing.properties[i].value %></li>
+  <% } %>
+</ul>
+
