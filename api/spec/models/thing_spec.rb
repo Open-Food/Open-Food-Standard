@@ -13,6 +13,11 @@ describe Thing do
     Thing.new(@attr.merge(:name => nil)).should_not be_valid
   end
 
+  it 'should not be valid when the same name is used' do
+    Thing.create(@attr.merge(:name => "apple"))
+    Thing.new(@attr.merge(:name => "apple")).should_not be_valid
+  end
+
   describe "a thing with a property" do
     before do
       @thing = Thing.create(@attr)
