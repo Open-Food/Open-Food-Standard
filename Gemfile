@@ -15,3 +15,9 @@ gem "guard-bundler", ">= 0.1.3", :group => :development
 gem "guard-rails", ">= 0.0.3", :group => :development
 gem "guard-rspec", ">= 0.4.3", :group => :development
 gem "pg"
+gem 'httparty'
+gem 'uuidtools'
+
+group :test, :development do
+  gem "ruby-debug19"
+end
