@@ -1,4 +1,3 @@
-require 'ruby-debug'
 namespace :db do
   namespace :sync do
     desc "Sync food types"
