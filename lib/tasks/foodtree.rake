@@ -38,7 +38,7 @@ namespace :db do
       Thing.delete_all
       Property.delete_all
       
-      dir_path = "/home/maryam/DevEnv/Open-Food-Standard/db/data/food-types/to-import/"
+      dir_path = "./db/data/food-types/to-import/"
 
       Dir.glob(dir_path+"*.csv") do |csv_file|
         # read all datasets that should be imported to open-data 
