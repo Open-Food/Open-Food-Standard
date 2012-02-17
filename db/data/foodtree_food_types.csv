@@ -1,0 +1,768 @@
+Black-eyed Pea,5205b3de-8243-11e0-96db-001a6bce9a58
+Parsnip,f047b13c-8243-11e0-96db-001a6bce9a58
+Albacore Tuna,035913fc-8e6e-11e0-81f5-001cb3fffea2
+Dulse Seaweed,47a5b3fc-8244-11e0-96db-001a6bce9a58
+Fleur de Sel,766c6cac-8245-11e0-96db-001a6bce9a58
+Rutabaga,1eb97762-8244-11e0-96db-001a6bce9a58
+Seakale Seaweed,73a1bdca-8244-11e0-96db-001a6bce9a58
+Indian Pea,794f44be-8243-11e0-96db-001a6bce9a58
+Sesame Seeds,d97485fa-8e7f-11e0-8f11-12313b083422
+Lettuce,c766b72c-8243-11e0-96db-001a6bce9a58
+Mussels,0114db32-a20d-11e0-a597-12313d172a81
+Olives,0392ff5e-8e6e-11e0-81f5-001cb3fffea2
+Sauce,0a34f8a0-a20d-11e0-a597-12313d172a81
+Pretzel Salt,9a72be08-8245-11e0-96db-001a6bce9a58
+Cookie,082f6248-a20d-11e0-a597-12313d172a81
+Kohlrabi (German turnip),2d0ce322-8243-11e0-96db-001a6bce9a58
+Porcini Mushroom,037aaee0-8e6e-11e0-81f5-001cb3fffea2
+Water Cress,cfb2972e-8244-11e0-96db-001a6bce9a58
+Red Kidney Bean,a36f9a28-8243-11e0-96db-001a6bce9a58
+Sweet Pea,9c109ca4-8244-11e0-96db-001a6bce9a58
+Rye,76421bb8-8241-11e0-96db-001a6bce9a58
+Carrot,8ee9ac20-8242-11e0-96db-001a6bce9a58
+Wild strawberry,462a5440-8241-11e0-96db-001a6bce9a58
+Vegetable,3b5371f4-8242-11e0-96db-001a6bce9a58
+Bell Pepper,6242cdf0-8242-11e0-96db-001a6bce9a58
+Fiddlehead Fern,076cb246-8243-11e0-96db-001a6bce9a58
+Cashew Nut,d43cc84e-8241-11e0-96db-001a6bce9a58
+Chives,e1e99246-8242-11e0-96db-001a6bce9a58
+Soft White Wheat,9e605f7e-8241-11e0-96db-001a6bce9a58
+Peach,0cb50462-8241-11e0-96db-001a6bce9a58
+Whey Cheese,5560859a-8239-11e0-96db-001a6bce9a58
+Dairy,2be08b84-8239-11e0-96db-001a6bce9a58
+Rooibos Tea,b59b0b4a-823b-11e0-96db-001a6bce9a58
+Poultry,e290a75c-8238-11e0-96db-001a6bce9a58
+Stout (Beer),37af6fc8-823b-11e0-96db-001a6bce9a58
+Banana,96e3630a-8240-11e0-96db-001a6bce9a58
+Coffee,8ce9c3d0-823b-11e0-96db-001a6bce9a58
+Madeira,611add66-823b-11e0-96db-001a6bce9a58
+Gooseberry,c6a9b27e-8240-11e0-96db-001a6bce9a58
+Honey,8dc85b6a-8239-11e0-96db-001a6bce9a58
+Pancetta,ce858c82-ff5b-11e0-b567-001a6bce9a58
+Bluenose,704c680c-f957-11e0-b213-001a6bce9a58
+Mustard Greens,ba900f68-ff5b-11e0-b567-001a6bce9a58
+Pacific Tuna,70713d80-f957-11e0-b213-001a6bce9a58
+Blue Crab,714ae7ce-f957-11e0-b213-001a6bce9a58
+Sage,a341040c-a592-11e0-99de-12313d14fea2
+Mortgage Lifter Tomato,77f2fe70-db09-11e0-9bf8-12313d2561cd
+Rock Sole,7090074c-f957-11e0-b213-001a6bce9a58
+Pattypan Squash,9bd01636-a592-11e0-99de-12313d14fea2
+Clams,712b97f2-f957-11e0-b213-001a6bce9a58
+Butternut Squash,c4e22ee2-ff5b-11e0-b567-001a6bce9a58
+Smooth Grenadier,70ebf188-f957-11e0-b213-001a6bce9a58
+Reishi Mushroom,ff10adae-a877-11e0-bc58-12313b072d11
+Dill,a07ba01a-a592-11e0-99de-12313d14fea2
+Green Zebra Tomato,7948fd1a-db09-11e0-9bf8-12313d2561cd
+Soup,4300a2e4-aefe-11e0-bd3b-12313d21a4a4
+Sardine,70c5b216-f957-11e0-b213-001a6bce9a58
+Zucchini (Courgette),719f9a30-f957-11e0-b213-001a6bce9a58
+Pluot,b0e902b2-ff5b-11e0-b567-001a6bce9a58
+Red Sea Urchin,717098d4-f957-11e0-b213-001a6bce9a58
+Horse Mackerel,7107b86e-f957-11e0-b213-001a6bce9a58
+Monkfish,701a1de8-f957-11e0-b213-001a6bce9a58
+Carola Seaweed,41cfce04-8244-11e0-96db-001a6bce9a58
+Horse Gram,73b26afe-8243-11e0-96db-001a6bce9a58
+Thai Basil,0525d10e-a20d-11e0-a597-12313d172a81
+Preserves,09eb8d00-a20d-11e0-a597-12313d172a81
+Ricebean,03a37460-8e6e-11e0-81f5-001cb3fffea2
+Morel Mushroom,0376ce60-8e6e-11e0-81f5-001cb3fffea2
+Peanut,99cedde4-8243-11e0-96db-001a6bce9a58
+Coarse Salt,70c3d484-8245-11e0-96db-001a6bce9a58
+Sweet Bell Pepper,9562d35e-8244-11e0-96db-001a6bce9a58
+Sea Grape Seaweed,6a6c3f82-8244-11e0-96db-001a6bce9a58
+Iodized Salt,94bfce74-8245-11e0-96db-001a6bce9a58
+Apple Chips,9a8646a6-a592-11e0-99de-12313d14fea2
+Pink Salmon,0097027a-a20d-11e0-a597-12313d172a81
+Rapini,18912aec-8244-11e0-96db-001a6bce9a58
+Paracress,eaac14f2-8243-11e0-96db-001a6bce9a58
+Ivory Salmon,03543ea4-8e6e-11e0-81f5-001cb3fffea2
+Bean,4bf66038-8243-11e0-96db-001a6bce9a58
+Wasabi (Japanese horseradish),c815610e-8244-11e0-96db-001a6bce9a58
+Mint,038fdcde-8e6e-11e0-81f5-001cb3fffea2
+Winged Bean,bee44b6e-8243-11e0-96db-001a6bce9a58
+Pastry,07d492be-a20d-11e0-a597-12313d172a81
+Chinese Artichoke,dacef280-8242-11e0-96db-001a6bce9a58
+Canna,8988f8d0-8242-11e0-96db-001a6bce9a58
+Quinoa,6fa9a30c-8241-11e0-96db-001a6bce9a58
+Hazelnut,c8588ad6-8241-11e0-96db-001a6bce9a58
+Beet Green,5b827ace-8242-11e0-96db-001a6bce9a58
+Sweet cherry,3d523306-8241-11e0-96db-001a6bce9a58
+Hard White Wheat,971ac614-8241-11e0-96db-001a6bce9a58
+Birch Syrup,01a558a0-8242-11e0-96db-001a6bce9a58
+Jicama (Mexican Turnip),2441d612-8243-11e0-96db-001a6bce9a58
+Fennel,00bf17ea-8243-11e0-96db-001a6bce9a58
+Onion,03335d4e-8241-11e0-96db-001a6bce9a58
+Duck,e9abfa46-8238-11e0-96db-001a6bce9a58
+Yellow Tea,bc9b031e-823b-11e0-96db-001a6bce9a58
+Port,69ba33c2-823b-11e0-96db-001a6bce9a58
+Blue Vein Cheese,32913fe6-8239-11e0-96db-001a6bce9a58
+Blackberry,9d576baa-8240-11e0-96db-001a6bce9a58
+Tea,930c7fe6-823b-11e0-96db-001a6bce9a58
+Alcohol,15123fb8-823b-11e0-96db-001a6bce9a58
+Brandy,3e18c1e8-823b-11e0-96db-001a6bce9a58
+Green Beans,d54eaf00-8240-11e0-96db-001a6bce9a58
+Cow Milk,5e54bd7e-8239-11e0-96db-001a6bce9a58
+Cured Meat,cd36c3aa-ff5b-11e0-b567-001a6bce9a58
+Blue Marlin,71267682-f957-11e0-b213-001a6bce9a58
+Oregano,a260a3bc-a592-11e0-99de-12313d14fea2
+Date,af9320aa-ff5b-11e0-b567-001a6bce9a58
+Atlantic Tuna,70649238-f957-11e0-b213-001a6bce9a58
+Chive Blossoms,9ee47164-a592-11e0-99de-12313d14fea2
+Big Beef Tomato,77b9be58-db09-11e0-9bf8-12313d2561cd
+Freshwater Shrimp,716b3808-f957-11e0-b213-001a6bce9a58
+Japanese Flying Squid,718f4d88-f957-11e0-b213-001a6bce9a58
+Red Porgy,704435ba-f957-11e0-b213-001a6bce9a58
+French Breakfast Radish,c374574c-ff5b-11e0-b567-001a6bce9a58
+Spiny Dogfish,70df7732-f957-11e0-b213-001a6bce9a58
+English Sole,708a7b74-f957-11e0-b213-001a6bce9a58
+Cherokee Purple Tomato,7912594a-db09-11e0-9bf8-12313d2561cd
+Trout,70c0c40e-f957-11e0-b213-001a6bce9a58
+English Peas,9b58c892-a592-11e0-99de-12313d14fea2
+King Mackerel,7102fdba-f957-11e0-b213-001a6bce9a58
+Sheep Cheese,fcd59f5e-a877-11e0-bc58-12313b072d11
+Romaine,421a17ac-aefe-11e0-bd3b-12313d21a4a4
+Abalone,7014f868-f957-11e0-b213-001a6bce9a58
+Cactus,b94abfa4-ff5b-11e0-b567-001a6bce9a58
+Dungeness Crab,7145e59e-f957-11e0-b213-001a6bce9a58
+Ti Plant,aefad97e-8244-11e0-96db-001a6bce9a58
+Tangerine,0382f582-8e6e-11e0-81f5-001cb3fffea2
+Winter Purslane,e15cf032-8244-11e0-96db-001a6bce9a58
+Prairie Turnip,02dd8272-8244-11e0-96db-001a6bce9a58
+Hawaiian Salt,832e3cd6-8245-11e0-96db-001a6bce9a58
+Chai Tea,0363c3d8-8e6e-11e0-81f5-001cb3fffea2
+Scone,08f449aa-a20d-11e0-a597-12313d172a81
+Mizuna Greens (Japanese mustard),d883acfe-8243-11e0-96db-001a6bce9a58
+Lobster Mushroom,02f8debc-a20d-11e0-a597-12313d172a81
+Compound,0aef8b02-a20d-11e0-a597-12313d172a81
+Kelps Seaweed,551c1a9e-8244-11e0-96db-001a6bce9a58
+Halibut,0347a40a-8e6e-11e0-81f5-001cb3fffea2
+Sweet Peas,039930b8-8e6e-11e0-81f5-001cb3fffea2
+Land Cress,38b36958-8243-11e0-96db-001a6bce9a58
+Lupin,853c682e-8243-11e0-96db-001a6bce9a58
+Scorzonera (black oyster plant),2c6910a2-8244-11e0-96db-001a6bce9a58
+Drumstick,5e445c2c-8243-11e0-96db-001a6bce9a58
+Rosemary,2fe00ec6-908a-11e0-890e-12313d017451
+Skirret,8137745c-8244-11e0-96db-001a6bce9a58
+Soybean,ae477f2e-8243-11e0-96db-001a6bce9a58
+Zucchini,f0bfd756-8244-11e0-96db-001a6bce9a58
+Loganberry,eecbdec6-8240-11e0-96db-001a6bce9a58
+Wheat,aef1482a-831e-11e0-96db-001a6bce9a58
+Garlic,12676132-8243-11e0-96db-001a6bce9a58
+Quince,263ee790-8241-11e0-96db-001a6bce9a58
+Arrowhead,496cdd5c-8242-11e0-96db-001a6bce9a58
+Pistachio,e6f9a970-8241-11e0-96db-001a6bce9a58
+Molasses,b059c580-8241-11e0-96db-001a6bce9a58
+Cayenne Pepper,9b176ec4-8242-11e0-96db-001a6bce9a58
+Daikon,ee42c562-8242-11e0-96db-001a6bce9a58
+Barley,59bebbae-8241-11e0-96db-001a6bce9a58
+Bok Choy,7138d7f0-8242-11e0-96db-001a6bce9a58
+Wine,545a1d4e-823b-11e0-96db-001a6bce9a58
+Lager (Beer),2945cd42-823b-11e0-96db-001a6bce9a58
+Cranberry,bae48608-8240-11e0-96db-001a6bce9a58
+Plant,861e1eca-8240-11e0-96db-001a6bce9a58
+Seafood,fe747d0e-8238-11e0-96db-001a6bce9a58
+Semi-firm Cheese,47b73bf0-8239-11e0-96db-001a6bce9a58
+Horse,d0f8058a-8238-11e0-96db-001a6bce9a58
+Table Wine,7dd5fd50-823b-11e0-96db-001a6bce9a58
+Herbal Tea,a7e312fe-823b-11e0-96db-001a6bce9a58
+Eggs,7583ff1e-8239-11e0-96db-001a6bce9a58
+Kiwi,e7ee01f6-8240-11e0-96db-001a6bce9a58
+Confectionary,d11385e4-ff5b-11e0-b567-001a6bce9a58
+Longnose and Big Skate,70f56d1c-f957-11e0-b213-001a6bce9a58
+Sun dried tomato,010f6d20-a878-11e0-bc58-12313b072d11
+Atlantic Herring,709ae0cc-f957-11e0-b213-001a6bce9a58
+Flour,7a38e9ec-db09-11e0-9bf8-12313d2561cd
+Orange Roughy,702de6fc-f957-11e0-b213-001a6bce9a58
+Tarragon,a4216600-a592-11e0-99de-12313d14fea2
+Black Quinoa,b407ff84-ff5b-11e0-b567-001a6bce9a58
+Black Cherry Tomato,7860c93c-db09-11e0-9bf8-12313d2561cd
+Cinnamon Basil,9ca7c4b4-a592-11e0-99de-12313d14fea2
+Honeycomb,aa3f6c26-ff5b-11e0-b567-001a6bce9a58
+Chilean Seabass,71115900-f957-11e0-b213-001a6bce9a58
+Arctic Surf Clams,7135fb7a-f957-11e0-b213-001a6bce9a58
+Farmed (Net Pen) Salmon,7055ea6c-f957-11e0-b213-001a6bce9a58
+Cod,707ad96c-f957-11e0-b213-001a6bce9a58
+Pea Shoots,bea7dde2-ff5b-11e0-b567-001a6bce9a58
+Lemon Balm,a12609c4-a592-11e0-99de-12313d14fea2
+Caribbean Spiny Lobster,715d07d8-f957-11e0-b213-001a6bce9a58
+Catfish,70afeac6-f957-11e0-b213-001a6bce9a58
+Atlantic Flounder,70cf3e08-f957-11e0-b213-001a6bce9a58
+Tamales,c889bd30-ff5b-11e0-b567-001a6bce9a58
+Octopus (Gulf of California),7179d926-f957-11e0-b213-001a6bce9a58
+Prune Juice,75ef1190-db09-11e0-9bf8-12313d2561cd
+Granola,0b196f4e-a20d-11e0-a597-12313d172a81
+Winter Squash,e4e6bc10-8244-11e0-96db-001a6bce9a58
+Mesquite,88627fb6-8243-11e0-96db-001a6bce9a58
+Spices,5ff20ab8-8245-11e0-96db-001a6bce9a58
+Kombu Seaweed,57ff9a24-8244-11e0-96db-001a6bce9a58
+Sablefish (Black Cod),0349b45c-8e6e-11e0-81f5-001cb3fffea2
+Snake Gourd,843727ce-8244-11e0-96db-001a6bce9a58
+Prussian Asparagus,07aad17e-8244-11e0-96db-001a6bce9a58
+Apple Juice,0365d7e0-8e6e-11e0-81f5-001cb3fffea2
+Leek,3c8e4228-8243-11e0-96db-001a6bce9a58
+Thyme,2ff76ea4-908a-11e0-890e-12313d017451
+Italian Sea Salt,860295d8-8245-11e0-96db-001a6bce9a58
+Nasturtium,dc4110ca-8243-11e0-96db-001a6bce9a58
+Edamame (green soybean),623f3ff4-8243-11e0-96db-001a6bce9a58
+Thyme,065d900c-a20d-11e0-a597-12313d172a81
+Crepe,0920649a-a20d-11e0-a597-12313d172a81
+Sweet Potatoes,039aa916-8e6e-11e0-81f5-001cb3fffea2
+Beets,0403411c-a20d-11e0-a597-12313d172a81
+Sea Beat,2f8e09c2-8244-11e0-96db-001a6bce9a58
+Tinda,b223fe8c-8244-11e0-96db-001a6bce9a58
+Beet Greens,0388046e-8e6e-11e0-81f5-001cb3fffea2
+Tarwi,b0d1f03a-8243-11e0-96db-001a6bce9a58
+Arrowroot,4c673d40-8242-11e0-96db-001a6bce9a58
+Raspberry,29aacf20-8241-11e0-96db-001a6bce9a58
+Broadleaf Arrowhead,74ebf80a-8242-11e0-96db-001a6bce9a58
+Dandelion Nettles,f10422be-8242-11e0-96db-001a6bce9a58
+Table Sugar,b42ca452-8241-11e0-96db-001a6bce9a58
+Buckwheat,5cdfe60a-8241-11e0-96db-001a6bce9a58
+Celery,9dd236f8-8242-11e0-96db-001a6bce9a58
+Ginger,15eba3f4-8243-11e0-96db-001a6bce9a58
+Loquat,f495ea18-8240-11e0-96db-001a6bce9a58
+Seeds,ec4c1ba6-8241-11e0-96db-001a6bce9a58
+Durum Wheat,83fa6b98-8241-11e0-96db-001a6bce9a58
+Whisky,4ee1d65e-823b-11e0-96db-001a6bce9a58
+Sparkling Wine,7a1acde4-823b-11e0-96db-001a6bce9a58
+India Pale Ale (Beer),261c413c-823b-11e0-96db-001a6bce9a58
+Turkey,fb418f3c-8238-11e0-96db-001a6bce9a58
+Yeast,f58a8564-823b-11e0-96db-001a6bce9a58
+Chokeberry,b4cd26b2-8240-11e0-96db-001a6bce9a58
+Yogurt,6fe48344-8239-11e0-96db-001a6bce9a58
+Goat Meat,cbd1c01e-8238-11e0-96db-001a6bce9a58
+Kale / Collard Green,e51e836a-8240-11e0-96db-001a6bce9a58
+Green Tea,a4b99fc6-823b-11e0-96db-001a6bce9a58
+Processed Cheese,44849f86-8239-11e0-96db-001a6bce9a58
+Caramel,d1ba581a-ff5b-11e0-b567-001a6bce9a58
+Soft Clams,7138ab86-f957-11e0-b213-001a6bce9a58
+Toffee,0255e0a6-a878-11e0-bc58-12313b072d11
+Mahi Mahi,703069ea-f957-11e0-b213-001a6bce9a58
+Chilaquilles,c92f0434-ff5b-11e0-b567-001a6bce9a58
+Lemon Grass,a151b740-a592-11e0-99de-12313d14fea2
+Smooth Skate,70f796e6-f957-11e0-b213-001a6bce9a58
+Sanddab,70d1c2a4-f957-11e0-b213-001a6bce9a58
+Channel Catfish,70b23290-f957-11e0-b213-001a6bce9a58
+Lime,764a0474-db09-11e0-9bf8-12313d2561cd
+Hake,709e0fe0-f957-11e0-b213-001a6bce9a58
+Pacific Cod,707de706-f957-11e0-b213-001a6bce9a58
+00 Flour,7a58067e-db09-11e0-9bf8-12313d2561cd
+Plum Tomato,787f3f02-db09-11e0-9bf8-12313d2561cd
+Opal Basil,9d034f96-a592-11e0-99de-12313d14fea2
+Shrimp,715f338c-f957-11e0-b213-001a6bce9a58
+Chicken of the Woods Mushroom,ac0f06a6-ff5b-11e0-b567-001a6bce9a58
+Barramundi,71137af0-f957-11e0-b213-001a6bce9a58
+Squid,717be5ea-f957-11e0-b213-001a6bce9a58
+Red Quinoa,b4b083e8-ff5b-11e0-b567-001a6bce9a58
+Elderberries,c00bf9ac-ff5b-11e0-b567-001a6bce9a58
+Wild Pacific B.C. Salmon,7058081a-f957-11e0-b213-001a6bce9a58
+Nougat,a49f290a-a592-11e0-99de-12313d14fea2
+Marmalade,09c84fde-a20d-11e0-a597-12313d172a81
+Barlotti Bean,48b27e52-8243-11e0-96db-001a6bce9a58
+Ogonori Seaweed,6751f4ea-8244-11e0-96db-001a6bce9a58
+Bread,07954834-a20d-11e0-a597-12313d172a81
+Arame Seaweed,3c880b8c-8244-11e0-96db-001a6bce9a58
+Guar Bean,70a1c3fa-8243-11e0-96db-001a6bce9a58
+Lemon Basil,05006afe-a20d-11e0-a597-12313d172a81
+Lotus Roots,038e5468-8e6e-11e0-81f5-001cb3fffea2
+Spring Salmon,035230b4-8e6e-11e0-81f5-001cb3fffea2
+Velvet Bean,bbac6aee-8243-11e0-96db-001a6bce9a58
+Ulluco,c38b1480-8244-11e0-96db-001a6bce9a58
+Rockfish,0057ab84-a20d-11e0-a597-12313d172a81
+Black Salt,6d3b09b8-8245-11e0-96db-001a6bce9a58
+Coarse Salt,91feecce-8245-11e0-96db-001a6bce9a58
+Onion,e7e8834a-8243-11e0-96db-001a6bce9a58
+Feta Cheese,996a2ab2-a592-11e0-99de-12313d14fea2
+Crimini Mushroom,0374d628-8e6e-11e0-81f5-001cb3fffea2
+Summer Squash,91e57dc6-8244-11e0-96db-001a6bce9a58
+Lupins,03a1988e-8e6e-11e0-81f5-001cb3fffea2
+Pea,96f42890-8243-11e0-96db-001a6bce9a58
+Radish,145e6b10-8244-11e0-96db-001a6bce9a58
+Chili Pepper,d776ed04-8242-11e0-96db-001a6bce9a58
+Avocado,5858d5c8-8242-11e0-96db-001a6bce9a58
+Jerusalem Artichoke,2199a14c-8243-11e0-96db-001a6bce9a58
+Nectarine,0089f4ea-8241-11e0-96db-001a6bce9a58
+Walnut,c3f70f94-8241-11e0-96db-001a6bce9a58
+Strawberry,3a0624f0-8241-11e0-96db-001a6bce9a58
+Oats,6c357a48-8241-11e0-96db-001a6bce9a58
+Syrup,fd422f72-8241-11e0-96db-001a6bce9a58
+Caigua,8570c386-8242-11e0-96db-001a6bce9a58
+Ensete,fd6dc2c6-8242-11e0-96db-001a6bce9a58
+Hard Red Winter Wheat,938af4e2-8241-11e0-96db-001a6bce9a58
+Yerba Mate Tea,bfec7b56-823b-11e0-96db-001a6bce9a58
+Goose,eceed930-8238-11e0-96db-001a6bce9a58
+Blueberry,a43cf71e-8240-11e0-96db-001a6bce9a58
+Animal,453f44dc-8237-11e0-96db-001a6bce9a58
+Double and Triple Cream Cheese,3602271c-8239-11e0-96db-001a6bce9a58
+Sherry,6d45e086-823b-11e0-96db-001a6bce9a58
+Beer,183f1742-823b-11e0-96db-001a6bce9a58
+Gin,41aa2ebe-823b-11e0-96db-001a6bce9a58
+Black Tea,964a6b28-823b-11e0-96db-001a6bce9a58
+Greengage,d887210c-8240-11e0-96db-001a6bce9a58
+Spaghetti,cc931ce6-ff5b-11e0-b567-001a6bce9a58
+Marjoram,a23e17ac-a592-11e0-99de-12313d14fea2
+Salad Greens,41e32c06-aefe-11e0-bd3b-12313d21a4a4
+Walleye Pollock,70be8482-f957-11e0-b213-001a6bce9a58
+Bluefin Tuna,706277b4-f957-11e0-b213-001a6bce9a58
+Black Radish,c2ce3466-ff5b-11e0-b567-001a6bce9a58
+Hedgehog Mushroom,aea92f18-ff5b-11e0-b567-001a6bce9a58
+Marlin,71242ec2-f957-11e0-b213-001a6bce9a58
+Capelin,703f40be-f957-11e0-b213-001a6bce9a58
+Ravioli,cbf1dbc4-ff5b-11e0-b567-001a6bce9a58
+Beefsteak Tomato,779c3f54-db09-11e0-9bf8-12313d2561cd
+Snow Crab,7143a9dc-f957-11e0-b213-001a6bce9a58
+Olive Oil,a5890ac0-a592-11e0-99de-12313d14fea2
+Argentine shortfin Squid,718cb898-f957-11e0-b213-001a6bce9a58
+Dogfish,70dc578c-f957-11e0-b213-001a6bce9a58
+Dover Sole,70882f86-f957-11e0-b213-001a6bce9a58
+White Shrimp,71690f24-f957-11e0-b213-001a6bce9a58
+Broccoli Romanesco,b8a6dec0-ff5b-11e0-b567-001a6bce9a58
+Mackerel,7100c504-f957-11e0-b213-001a6bce9a58
+Caviar,7012e820-f957-11e0-b213-001a6bce9a58
+Chamomile,9eb86c36-a592-11e0-99de-12313d14fea2
+Arkansas Traveler Tomato,78f6036c-db09-11e0-9bf8-12313d2561cd
+Pickled Vegetable,0aa7b4f8-a20d-11e0-a597-12313d172a81
+Swiss Chard,a62eb392-8244-11e0-96db-001a6bce9a58
+Pomegranate,037f40a4-8e6e-11e0-81f5-001cb3fffea2
+Seasoned Salt,a22af994-8245-11e0-96db-001a6bce9a58
+Pointed Gourd,f6e217a8-8243-11e0-96db-001a6bce9a58
+Poppy Seeds,da0cc572-8e7f-11e0-8f11-12313b083422
+Welsh Onion or Scallion (spring onion),d76dea04-8244-11e0-96db-001a6bce9a58
+Croissant,089973c2-a20d-11e0-a597-12313d172a81
+Samphire,25d53d9c-8244-11e0-96db-001a6bce9a58
+Chanterelle Mushroom,02a3a6b8-a20d-11e0-a597-12313d172a81
+Wakame Seaweed,796260de-8244-11e0-96db-001a6bce9a58
+Luffa,d2579430-8243-11e0-96db-001a6bce9a58
+Lentile,7fa5fa6a-8243-11e0-96db-001a6bce9a58
+Cilantro,05d3d1f0-a20d-11e0-a597-12313d172a81
+Grey Salt,7c0a8e46-8245-11e0-96db-001a6bce9a58
+Crab,035d40c6-8e6e-11e0-81f5-001cb3fffea2
+Hijki Seaweed,4f41eedc-8244-11e0-96db-001a6bce9a58
+Kurrat,333e2f3a-8243-11e0-96db-001a6bce9a58
+Runner Bean,a8fc25ec-8243-11e0-96db-001a6bce9a58
+Chickpea,588ab5ba-8243-11e0-96db-001a6bce9a58
+Sea Asparagus,03962b84-8e6e-11e0-81f5-001cb3fffea2
+Bitterleaf,68413c8c-8242-11e0-96db-001a6bce9a58
+Cereals,50410ffa-8241-11e0-96db-001a6bce9a58
+Wild Rice,a85f6920-8241-11e0-96db-001a6bce9a58
+Teff,7d2455a4-8241-11e0-96db-001a6bce9a58
+Pineapple,1864941c-8241-11e0-96db-001a6bce9a58
+Corn Salad,e74e488a-8242-11e0-96db-001a6bce9a58
+Chestnut,de2575e0-8241-11e0-96db-001a6bce9a58
+Aphia,437177fa-8242-11e0-96db-001a6bce9a58
+Fluted Pumpkin,0cd955c2-8243-11e0-96db-001a6bce9a58
+Catsear,9509007e-8242-11e0-96db-001a6bce9a58
+Sharp Cheese,4ef63f42-8239-11e0-96db-001a6bce9a58
+Currant,c0dd625a-8240-11e0-96db-001a6bce9a58
+Dessert Wine,5a7a7976-823b-11e0-96db-001a6bce9a58
+Duck Eggs,8007111a-8239-11e0-96db-001a6bce9a58
+Apple,8fa8c08a-8240-11e0-96db-001a6bce9a58
+Porter (Beer),2fb41738-823b-11e0-96db-001a6bce9a58
+Shellfish,06e4b562-8239-11e0-96db-001a6bce9a58
+Rose Table Wine,84d034b8-823b-11e0-96db-001a6bce9a58
+Mutton,db6d5b1e-8238-11e0-96db-001a6bce9a58
+Oolong Tea,aea9d32a-823b-11e0-96db-001a6bce9a58
+Prosciutto,cfc9a3d0-ff5b-11e0-b567-001a6bce9a58
+Striped Bass,710c93f2-f957-11e0-b213-001a6bce9a58
+Perssimon,ff8b04e6-a877-11e0-bc58-12313b072d11
+Cranberry Bean,bc05ab32-ff5b-11e0-b567-001a6bce9a58
+Black Mission Fig,b2475d70-ff5b-11e0-b567-001a6bce9a58
+Pacific Grenadier,70f07adc-f957-11e0-b213-001a6bce9a58
+Zorba Tomato,7983f0e6-db09-11e0-9bf8-12313d2561cd
+Flounder,70ca8822-f957-11e0-b213-001a6bce9a58
+Cobia,705118ca-f957-11e0-b213-001a6bce9a58
+Kabocha Squash,c64bc1a8-ff5b-11e0-b567-001a6bce9a58
+Sorrel,a3858578-a592-11e0-99de-12313d14fea2
+Cherry Tomato,782b5fae-db09-11e0-9bf8-12313d2561cd
+Garlic Scapes,a0c341d6-a592-11e0-99de-12313d14fea2
+Pear Juice,75a9b9f6-db09-11e0-9bf8-12313d2561cd
+Spiny Lobster,71586d86-f957-11e0-b213-001a6bce9a58
+Zucchini Blossoms,9c311896-a592-11e0-99de-12313d14fea2
+Pacific Hake,70a0c5c8-f957-11e0-b213-001a6bce9a58
+Atlantic surf Clams,7130beb2-f957-11e0-b213-001a6bce9a58
+Day Octopus,71753bbe-f957-11e0-b213-001a6bce9a58
+Herring,70952eb6-f957-11e0-b213-001a6bce9a58
+Atlantic Halibut,707605e0-f957-11e0-b213-001a6bce9a58
+Swordfish,702060e0-f957-11e0-b213-001a6bce9a58
+Cream,a824f578-ff5b-11e0-b567-001a6bce9a58
+Soy,ab99b634-8243-11e0-96db-001a6bce9a58
+Savoy,29adc312-8244-11e0-96db-001a6bce9a58
+Manufactured,aeb704f0-8245-11e0-96db-001a6bce9a58
+Cake,08c192f8-a20d-11e0-a597-12313d172a81
+Taro,a62eb392-8244-11e0-96db-001a6bce9a58
+Grinder Salt,7f35475a-8245-11e0-96db-001a6bce9a58
+Lima Bean,829b6296-8243-11e0-96db-001a6bce9a58
+Pickles,0acb8b58-a20d-11e0-a597-12313d172a81
+Shallot,7e367aaa-8244-11e0-96db-001a6bce9a58
+Goat Milk,035febf0-8e6e-11e0-81f5-001cb3fffea2
+Pommelo,0381202c-8e6e-11e0-81f5-001cb3fffea2
+Sprouts,0397adc4-8e6e-11e0-81f5-001cb3fffea2
+Portobello Mushroom,2f42d822-908a-11e0-890e-12313d017451
+Potato,f9f391e2-8243-11e0-96db-001a6bce9a58
+Yam,ecec42c2-8244-11e0-96db-001a6bce9a58
+Common Bean,5b9b9cf6-8243-11e0-96db-001a6bce9a58
+Malabar Gourd,d53c3610-8243-11e0-96db-001a6bce9a58
+Lavendar,0600149a-a20d-11e0-a597-12313d172a81
+Lamb's Lettuce,3603decc-8243-11e0-96db-001a6bce9a58
+Black Trumpet Mushroom,02ceb010-a20d-11e0-a597-12313d172a81
+Irish Moss Seaweed,522ed286-8244-11e0-96db-001a6bce9a58
+Winter Melon (ash or white gourd),db584704-8244-11e0-96db-001a6bce9a58
+Garden Cress,0f9597a8-8243-11e0-96db-001a6bce9a58
+Pine Nut,e26cc7de-8241-11e0-96db-001a6bce9a58
+Sugar Cane,ac7e802c-8241-11e0-96db-001a6bce9a58
+Triticale,808163c2-8241-11e0-96db-001a6bce9a58
+Arracacha,46a41e78-8242-11e0-96db-001a6bce9a58
+Black Cumin,6bb4500c-8242-11e0-96db-001a6bce9a58
+Cucumber,ea5ad69c-8242-11e0-96db-001a6bce9a58
+Cauliflower,97e0ca2a-8242-11e0-96db-001a6bce9a58
+Plum,1eb3d51c-8241-11e0-96db-001a6bce9a58
+Amaranth,541931ac-8241-11e0-96db-001a6bce9a58
+Chicken Eggs,7a671f3e-8239-11e0-96db-001a6bce9a58
+Cucumber,bdc3c74e-8240-11e0-96db-001a6bce9a58
+Cider,573d9194-823b-11e0-96db-001a6bce9a58
+Lambic (Beer),2c579146-823b-11e0-96db-001a6bce9a58
+Red Table Wine,814fee00-823b-11e0-96db-001a6bce9a58
+Semi-soft Cheese,4bde4d68-8239-11e0-96db-001a6bce9a58
+Fruit,8ac25ebe-8240-11e0-96db-001a6bce9a58
+Fish,02ef1c22-8239-11e0-96db-001a6bce9a58
+Honeybush Tea,ab0ff1ea-823b-11e0-96db-001a6bce9a58
+Lamb,d77dffc2-8238-11e0-96db-001a6bce9a58
+Salumi,d06a727e-ff5b-11e0-b567-001a6bce9a58
+Arrowtooth Flounder,70cd16c8-f957-11e0-b213-001a6bce9a58
+Pineapple Juice,75c81a68-db09-11e0-9bf8-12313d2561cd
+Black Sea Bass,710f1cf8-f957-11e0-b213-001a6bce9a58
+Creme Fraiche,a9305502-ff5b-11e0-b567-001a6bce9a58
+Sugar,c7095eca-ff5b-11e0-b567-001a6bce9a58
+Fava Tips,bcee1228-ff5b-11e0-b567-001a6bce9a58
+Spearmint,a3f9e080-a592-11e0-99de-12313d14fea2
+Shark,70234e90-f957-11e0-b213-001a6bce9a58
+Northern Propellor Clams,71332580-f957-11e0-b213-001a6bce9a58
+Skate,70f2b2c0-f957-11e0-b213-001a6bce9a58
+Greenland Halibut,70785e76-f957-11e0-b213-001a6bce9a58
+American Lobster,715ab4c4-f957-11e0-b213-001a6bce9a58
+Bagel,7a118122-db09-11e0-9bf8-12313d2561cd
+Anise Hyssop,9c85e574-a592-11e0-99de-12313d14fea2
+Wild Pacific Salmon,7053cf0c-f957-11e0-b213-001a6bce9a58
+Kaffir,a0e4e912-a592-11e0-99de-12313d14fea2
+Common Octopus,71776bc8-f957-11e0-b213-001a6bce9a58
+Sungold Tomato,78460a84-db09-11e0-9bf8-12313d2561cd
+Pacific Herring,70981c70-f957-11e0-b213-001a6bce9a58
+Fudge,0021d254-a878-11e0-bc58-12313b072d11
+Wheat Berry,b33ec60a-ff5b-11e0-b567-001a6bce9a58
+Haddock,70ad6c56-f957-11e0-b213-001a6bce9a58
+Collard Greens,038b2f2c-8e6e-11e0-81f5-001cb3fffea2
+Herb,049d6314-a20d-11e0-a597-12313d172a81
+Turtle Bean,b673db98-8243-11e0-96db-001a6bce9a58
+Table Salt,8bd90078-8245-11e0-96db-001a6bce9a58
+Spinach,8b9f5004-8244-11e0-96db-001a6bce9a58
+Okra,e210ce32-8243-11e0-96db-001a6bce9a58
+Orange Juice,0369b978-8e6e-11e0-81f5-001cb3fffea2
+Kosher Salt,66dfac54-8245-11e0-96db-001a6bce9a58
+Sockeye Salmon,034e1ace-8e6e-11e0-81f5-001cb3fffea2
+Tomato,b8fc6f28-8244-11e0-96db-001a6bce9a58
+Seaweed,35fa59fa-8244-11e0-96db-001a6bce9a58
+Taco,0b70889c-a20d-11e0-a597-12313d172a81
+Moose,ffb11fbc-a20c-11e0-a597-12313d172a81
+Beans,039e5408-8e6e-11e0-81f5-001cb3fffea2
+Mozuku Seaweed,5f61fc94-8244-11e0-96db-001a6bce9a58
+Mung Bean,908e5d2c-8243-11e0-96db-001a6bce9a58
+Adzuki Bean,423f30ec-8243-11e0-96db-001a6bce9a58
+Purslane,0da2bd30-8244-11e0-96db-001a6bce9a58
+Jam,0974d2dc-a20d-11e0-a597-12313d172a81
+Green Bean (French beans),67d9cea2-8243-11e0-96db-001a6bce9a58
+Salmonberry,2fab4396-8241-11e0-96db-001a6bce9a58
+Lemon,eaed0b68-8240-11e0-96db-001a6bce9a58
+Maize,64552742-8241-11e0-96db-001a6bce9a58
+Chocolate,f497ce9a-8241-11e0-96db-001a6bce9a58
+Brussels Sprout,7ae1a1ec-8242-11e0-96db-001a6bce9a58
+Mango,fad6da86-8240-11e0-96db-001a6bce9a58
+Golden Samphire,1bad8b90-8243-11e0-96db-001a6bce9a58
+Emmer Wheat,8bc55874-8241-11e0-96db-001a6bce9a58
+Elephant Garlic,f6db9438-8242-11e0-96db-001a6bce9a58
+Almond,bc3e623e-8241-11e0-96db-001a6bce9a58
+Arugula,5222f2e2-8242-11e0-96db-001a6bce9a58
+Chard (spinach beet),a37b4824-8242-11e0-96db-001a6bce9a58
+Beef,c31808a2-8238-11e0-96db-001a6bce9a58
+Fungi,eebe25f6-823b-11e0-96db-001a6bce9a58
+Tequila,4806790c-823b-11e0-96db-001a6bce9a58
+Flowering Tea,9dc5abb0-823b-11e0-96db-001a6bce9a58
+Non-alcoholic Wine,73644250-823b-11e0-96db-001a6bce9a58
+Ale (Beer),1f53cf28-823b-11e0-96db-001a6bce9a58
+Pigeon,f47b9a9e-8238-11e0-96db-001a6bce9a58
+Water Buffalo Milk,68b27234-8239-11e0-96db-001a6bce9a58
+Hard Cheese,3ce881f2-8239-11e0-96db-001a6bce9a58
+Hot Pepper,df56b0a6-8240-11e0-96db-001a6bce9a58
+Avocado Oil,a513fffa-a592-11e0-99de-12313d14fea2
+Prawn,713d3606-f957-11e0-b213-001a6bce9a58
+Short-finned Squid,71809a4a-f957-11e0-b213-001a6bce9a58
+Thai Green Eggplant,c16f1ec8-ff5b-11e0-b567-001a6bce9a58
+Borage,9e5c8ace-a592-11e0-99de-12313d14fea2
+Skipjack Tuna,705e1002-f957-11e0-b213-001a6bce9a58
+Canary Rockfish,353096fa-f036-11e0-b60e-001a6bce9a58
+Better Boy Tomato,774d0128-db09-11e0-9bf8-12313d2561cd
+Red Snapper,711f704e-f957-11e0-b213-001a6bce9a58
+Sturgeon,70d6e4b4-f957-11e0-b213-001a6bce9a58
+Northern Shrimp,7163ff7a-f957-11e0-b213-001a6bce9a58
+Empanadas,ca74f52e-ff5b-11e0-b567-001a6bce9a58
+Arctic Char,7035c6d8-f957-11e0-b213-001a6bce9a58
+Basmati Rice,b6504120-ff5b-11e0-b567-001a6bce9a58
+Sole,7082b3ee-f957-11e0-b213-001a6bce9a58
+Eel,70fbfd44-f957-11e0-b213-001a6bce9a58
+San Marzano Tomato,78be1380-db09-11e0-9bf8-12313d2561cd
+Enoki Mushroom,ad5dbe30-ff5b-11e0-b567-001a6bce9a58
+Tra,70b8422a-f957-11e0-b213-001a6bce9a58
+Tapenade,02abecd0-a878-11e0-bc58-12313b072d11
+Fennel/Licorice,a1b0514c-a592-11e0-99de-12313d14fea2
+Sea Salt,6a5aa51e-8245-11e0-96db-001a6bce9a58
+Lingcod,0028286e-a20d-11e0-a597-12313d172a81
+Aonori Seaweed,394ecb0e-8244-11e0-96db-001a6bce9a58
+Truffle,03728df0-8e6e-11e0-81f5-001cb3fffea2
+Radicchio,115a8c8c-8244-11e0-96db-001a6bce9a58
+Canning Salt,8eb20ef2-8245-11e0-96db-001a6bce9a58
+Anasazi bean,4602e714-8243-11e0-96db-001a6bce9a58
+Squash Blossom,8eb153a0-8244-11e0-96db-001a6bce9a58
+Processed,077d934c-a20d-11e0-a597-12313d172a81
+Olive,e50b10e8-8243-11e0-96db-001a6bce9a58
+Urad Bean,b92a20fe-8243-11e0-96db-001a6bce9a58
+Turnip,c03b2e50-8244-11e0-96db-001a6bce9a58
+Jelly,09a1c62a-a20d-11e0-a597-12313d172a81
+Black Beans,039ffd1c-8e6e-11e0-81f5-001cb3fffea2
+Coho Salmon,03502cc4-8e6e-11e0-81f5-001cb3fffea2
+Groundnut,6d8e6f60-8243-11e0-96db-001a6bce9a58
+Dandelion Greens,038cb8ba-8e6e-11e0-81f5-001cb3fffea2
+Basil,04cd24c8-a20d-11e0-a597-12313d172a81
+Navy Bean,94528906-8243-11e0-96db-001a6bce9a58
+Nori (laver) Seaweed,6423575a-8244-11e0-96db-001a6bce9a58
+Pizza,0b997e82-a20d-11e0-a597-12313d172a81
+Pecan,c018c6c4-8241-11e0-96db-001a6bce9a58
+Chayote,d2b1b394-8242-11e0-96db-001a6bce9a58
+Cabbage,7dc32b7e-8242-11e0-96db-001a6bce9a58
+Saskatoon Berry,3292ab4e-8241-11e0-96db-001a6bce9a58
+Melon,fde5ad7e-8240-11e0-96db-001a6bce9a58
+Millet,6873f2b8-8241-11e0-96db-001a6bce9a58
+Horseradish,1e9f71ce-8243-11e0-96db-001a6bce9a58
+Hard Red Spring Wheat,8fc00a32-8241-11e0-96db-001a6bce9a58
+Endive,f99c606c-8242-11e0-96db-001a6bce9a58
+Asparagus,54f615d0-8242-11e0-96db-001a6bce9a58
+Tree,f90130e8-8241-11e0-96db-001a6bce9a58
+Water,c3cda4f2-823b-11e0-96db-001a6bce9a58
+Honeydew Melon,dbabc4a0-8240-11e0-96db-001a6bce9a58
+Rum,44d49ff2-823b-11e0-96db-001a6bce9a58
+Fresh Cheese,399aeb16-8239-11e0-96db-001a6bce9a58
+Chai  Tea,9a411650-823b-11e0-96db-001a6bce9a58
+Vermouth,7045b342-823b-11e0-96db-001a6bce9a58
+Abbey (Beer),1ba59712-823b-11e0-96db-001a6bce9a58
+Cantaloupe,a7507584-8240-11e0-96db-001a6bce9a58
+Sheep Milk,656a964c-8239-11e0-96db-001a6bce9a58
+Pheasant,f06f06ca-8238-11e0-96db-001a6bce9a58
+Meat,be0ddc60-8238-11e0-96db-001a6bce9a58
+Salad Tomato,78d9d9d0-db09-11e0-9bf8-12313d2561cd
+Yellowfin Tuna,70606500-f957-11e0-b213-001a6bce9a58
+Rex Sole,70853830-f957-11e0-b213-001a6bce9a58
+Yellowtail,703a4a28-f957-11e0-b213-001a6bce9a58
+Freshwater Eel,70fe1e9e-f957-11e0-b213-001a6bce9a58
+Japanese Eggplant,c214eace-ff5b-11e0-b567-001a6bce9a58
+Gray Snapper,7121d244-f957-11e0-b213-001a6bce9a58
+Pasta,cb4f8932-ff5b-11e0-b567-001a6bce9a58
+Lemonade,4007fb8c-aefe-11e0-bd3b-12313d21a4a4
+Jasmine Rice,b724b9e6-ff5b-11e0-b567-001a6bce9a58
+Cherokee Purple Tomato,776797b8-db09-11e0-9bf8-12313d2561cd
+Burnet,9e86c276-a592-11e0-99de-12313d14fea2
+Spot Prawn,713fcfe2-f957-11e0-b213-001a6bce9a58
+Canola Oil,a567333c-a592-11e0-99de-12313d14fea2
+Scallops,700cd426-f957-11e0-b213-001a6bce9a58
+Abalone Mushroom,ae05da02-ff5b-11e0-b567-001a6bce9a58
+Jumbo Squid,71836f54-f957-11e0-b213-001a6bce9a58
+Lovage,a20aa520-a592-11e0-99de-12313d14fea2
+Pollock,70bba136-f957-11e0-b213-001a6bce9a58
+Pink Shrimp,7166707a-f957-11e0-b213-001a6bce9a58
+White Sturgeon,70d9c472-f957-11e0-b213-001a6bce9a58
+Spot Prawn,035b3e34-8e6e-11e0-81f5-001cb3fffea2
+Sloke Seaweed,766ae91e-8244-11e0-96db-001a6bce9a58
+Goat Cheese,0176c888-a20d-11e0-a597-12313d172a81
+Chervil,05b20bce-a20d-11e0-a597-12313d172a81
+Lentil,7cba114c-8243-11e0-96db-001a6bce9a58
+Rock Salt,9d304eb2-8245-11e0-96db-001a6bce9a58
+Sweet Potato,9f68ce3a-8244-11e0-96db-001a6bce9a58
+French Sea Salt,795f477c-8245-11e0-96db-001a6bce9a58
+Shiitake Mushroom,037c9660-8e6e-11e0-81f5-001cb3fffea2
+Komatsuna,305ecedc-8243-11e0-96db-001a6bce9a58
+Salsify (oyster plant),2169a180-8244-11e0-96db-001a6bce9a58
+Carob,55e170d8-8243-11e0-96db-001a6bce9a58
+Ricebea,a6066b86-8243-11e0-96db-001a6bce9a58
+Muffin,08627566-a20d-11e0-a597-12313d172a81
+Potatoes,03949e36-8e6e-11e0-81f5-001cb3fffea2
+Pumpkin Seeds,d9c0210e-8e7f-11e0-8f11-12313b083422
+Pickled,0a75cf6a-a20d-11e0-a597-12313d172a81
+Gim Seaweed,4c20e51e-8244-11e0-96db-001a6bce9a58
+Water Spinach,d3541952-8244-11e0-96db-001a6bce9a58
+Lotus Root,ca5aa646-8243-11e0-96db-001a6bce9a58
+Pignut,f33850ae-8243-11e0-96db-001a6bce9a58
+Florence Fennel,0a4e7134-8243-11e0-96db-001a6bce9a58
+Bitter Melon,650f25ce-8242-11e0-96db-001a6bce9a58
+Sorghum,79a5dbbe-8241-11e0-96db-001a6bce9a58
+Spelt Wheat,a1dbd6e2-8241-11e0-96db-001a6bce9a58
+Collard Green,e485bcd2-8242-11e0-96db-001a6bce9a58
+Grasses,4bf977b6-8241-11e0-96db-001a6bce9a58
+Amaranth,3e705d34-8242-11e0-96db-001a6bce9a58
+Macadamia nut,d90012fa-8241-11e0-96db-001a6bce9a58
+Cassava,9184ecc4-8242-11e0-96db-001a6bce9a58
+Pear,12496d32-8241-11e0-96db-001a6bce9a58
+Soft-ripened Cheese,52334f1a-8239-11e0-96db-001a6bce9a58
+Eggplant,c3d6134e-8240-11e0-96db-001a6bce9a58
+Quail Eggs,839d64a0-8239-11e0-96db-001a6bce9a58
+Scotch Ale (Beer),336b5f4e-823b-11e0-96db-001a6bce9a58
+Fortified Wine,5dfd39da-823b-11e0-96db-001a6bce9a58
+Apricot,933bb63a-8240-11e0-96db-001a6bce9a58
+White Table Wine,8807edd8-823b-11e0-96db-001a6bce9a58
+Venison,11a02cc0-8239-11e0-96db-001a6bce9a58
+Pu-Erh Tea,b25dda98-823b-11e0-96db-001a6bce9a58
+Pork,df1fe5d8-8238-11e0-96db-001a6bce9a58
+Bacon,cf27d24e-ff5b-11e0-b567-001a6bce9a58
+Lemongrass,71a65c30-f957-11e0-b213-001a6bce9a58
+Pacific Halibut,7073ddc4-f957-11e0-b213-001a6bce9a58
+Lobster,71556e6a-f957-11e0-b213-001a6bce9a58
+Yellowfin Sole,7092dad0-f957-11e0-b213-001a6bce9a58
+US Atlantic Clams,712e10ea-f957-11e0-b213-001a6bce9a58
+Popeye Grenadier,70ee2980-f957-11e0-b213-001a6bce9a58
+Acorn Squash,c5a742fe-ff5b-11e0-b567-001a6bce9a58
+Bass,7109ee18-f957-11e0-b213-001a6bce9a58
+Octopus,7172ee7c-f957-11e0-b213-001a6bce9a58
+Ponderosa Pink Tomato,780dc458-db09-11e0-9bf8-12313d2561cd
+Moneymaker Tomato,79688a36-db09-11e0-9bf8-12313d2561cd
+Grape Juice,7576cdfc-db09-11e0-9bf8-12313d2561cd
+Pacific Sardine,70c8591c-f957-11e0-b213-001a6bce9a58
+Savory,a3630eb2-a592-11e0-99de-12313d14fea2
+Wahoo,704e91c2-f957-11e0-b213-001a6bce9a58
+Fig,ff52778e-a877-11e0-bc58-12313b072d11
+Potato - Fingerling Potato - Kipfler Potato,bb362510-ff5b-11e0-b567-001a6bce9a58
+Turkish Turban Squash,9bfd7ffe-a592-11e0-99de-12313d14fea2
+Garlic Blossoms,a0a175c4-a592-11e0-99de-12313d14fea2
+Adriatic Fig,b1a2ae24-ff5b-11e0-b567-001a6bce9a58
+Tilapia,701d8050-f957-11e0-b213-001a6bce9a58
+Laver Seaweed,5c51df92-8244-11e0-96db-001a6bce9a58
+Chard,03899d9c-8e6e-11e0-81f5-001cb3fffea2
+Salmon,034c185a-8e6e-11e0-81f5-001cb3fffea2
+Tepary Bean,b373f7fc-8243-11e0-96db-001a6bce9a58
+Sea Kale,32c720ce-8244-11e0-96db-001a6bce9a58
+Smoked Sea Salt,8885f6a6-8245-11e0-96db-001a6bce9a58
+Salt,63622b1a-8245-11e0-96db-001a6bce9a58
+Fava Bean,65038b00-8243-11e0-96db-001a6bce9a58
+Nopal,def9282a-8243-11e0-96db-001a6bce9a58
+Pumpkin,0a9a50e4-8244-11e0-96db-001a6bce9a58
+Legumes,3f71b6a0-8243-11e0-96db-001a6bce9a58
+Yacon,e8818012-8244-11e0-96db-001a6bce9a58
+Apple Cider,0367cc4e-8e6e-11e0-81f5-001cb3fffea2
+Moth Bean,8b53fcfe-8243-11e0-96db-001a6bce9a58
+Tomatillo,b560b8ba-8244-11e0-96db-001a6bce9a58
+Elk,fee3b374-a20c-11e0-a597-12313d172a81
+Welsh Onion or Scallions (spring onion),039c228c-8e6e-11e0-81f5-001cb3fffea2
+Sandwich,0b4255e4-a20d-11e0-a597-12313d172a81
+Sorrel,8802d1f0-8244-11e0-96db-001a6bce9a58
+Canned,094a76ae-a20d-11e0-a597-12313d172a81
+Folio,60562808-8241-11e0-96db-001a6bce9a58
+Mandarine,f829a44e-8240-11e0-96db-001a6bce9a58
+Einkorn Wheat,87ec70de-8241-11e0-96db-001a6bce9a58
+Red Raspberry,2ca802a6-8241-11e0-96db-001a6bce9a58
+Artichoke,4f697cc4-8242-11e0-96db-001a6bce9a58
+Nuts,b85e334c-8241-11e0-96db-001a6bce9a58
+Eggplant (Aubergine),f3ca2b1a-8242-11e0-96db-001a6bce9a58
+Ceylon Spinach,a0b9002c-8242-11e0-96db-001a6bce9a58
+Gobo,18c85e64-8243-11e0-96db-001a6bce9a58
+Cacao,f07103cc-8241-11e0-96db-001a6bce9a58
+Broccoli,77d31062-8242-11e0-96db-001a6bce9a58
+Sake,768809f8-823b-11e0-96db-001a6bce9a58
+Mushrooms,f2342a5a-823b-11e0-96db-001a6bce9a58
+Alt (Beer),22b35fd0-823b-11e0-96db-001a6bce9a58
+Quail,f7e16f60-8238-11e0-96db-001a6bce9a58
+Pasta filata Cheese,4124ead0-8239-11e0-96db-001a6bce9a58
+Cherry,b1e5fdf2-8240-11e0-96db-001a6bce9a58
+Sour Cream,6c6dcaf4-8239-11e0-96db-001a6bce9a58
+Huckleberry,e2169d74-8240-11e0-96db-001a6bce9a58
+Bison,c81ed7d6-8238-11e0-96db-001a6bce9a58
+Vodka,4b903734-823b-11e0-96db-001a6bce9a58
+Chocolate Truffle,d25bb9c6-ff5b-11e0-b567-001a6bce9a58
+Brown Rice,b5883a5e-ff5b-11e0-b567-001a6bce9a58
+Taquitos,c9d175ca-ff5b-11e0-b567-001a6bce9a58
+Roma Tomato,78a26ce8-db09-11e0-9bf8-12313d2561cd
+Pacific Sanddab,70d49786-f957-11e0-b213-001a6bce9a58
+Atlantic Cod,70802b88-f957-11e0-b213-001a6bce9a58
+Basa,70b5bcb2-f957-11e0-b213-001a6bce9a58
+Bigeye Tuna,705aac32-f957-11e0-b213-001a6bce9a58
+Flax Seed,76a9b2ac-db09-11e0-9bf8-12313d2561cd
+Long-finned Squid,717dff1a-f957-11e0-b213-001a6bce9a58
+Snapper,711d3af4-f957-11e0-b213-001a6bce9a58
+Chutney,0284b21e-a878-11e0-bc58-12313b072d11
+Warmwater Shrimp,7161d81c-f957-11e0-b213-001a6bce9a58
+Lemon Verbena,a17807e2-a592-11e0-99de-12313d14fea2
+Shimeji Mushroom,acb8e360-ff5b-11e0-b567-001a6bce9a58
+Paddlefish,7032a4a8-f957-11e0-b213-001a6bce9a58
+Bee Balm,9e0114fa-a592-11e0-99de-12313d14fea2
+Pineapple Mint,c0afcf32-ff5b-11e0-b567-001a6bce9a58
+Pacific Geoduck Clams,713ae0b8-f957-11e0-b213-001a6bce9a58
+Oils,a4f3c3f2-a592-11e0-99de-12313d14fea2
+Atlantic Skate,70f9e356-f957-11e0-b213-001a6bce9a58
+Hyacinth bean,7689a09e-8243-11e0-96db-001a6bce9a58
+Bay Leaf,055446d8-a20d-11e0-a597-12313d172a81
+Yardlong Bean,c17f2ef2-8243-11e0-96db-001a6bce9a58
+Tuna,0356e640-8e6e-11e0-81f5-001cb3fffea2
+Oyster Mushroom,0378b45a-8e6e-11e0-81f5-001cb3fffea2
+Sweet Corn,98d2b3c4-8244-11e0-96db-001a6bce9a58
+Sea Lettuce Seaweed,7040d666-8244-11e0-96db-001a6bce9a58
+Popcorn Salt,97a0ccf6-8245-11e0-96db-001a6bce9a58
+Sunflower Seeds,d91244e4-8e7f-11e0-8f11-12313b083422
+Oyster,00ed1d22-a20d-11e0-a597-12313d172a81
+Rhubarb,1b3dc688-8244-11e0-96db-001a6bce9a58
+Water Chestnut,cc03452e-8244-11e0-96db-001a6bce9a58
+Salsa,0a146ad6-a20d-11e0-a597-12313d172a81
+Parsley,ed7d665e-8243-11e0-96db-001a6bce9a58
+Kale,2a41ccf2-8243-11e0-96db-001a6bce9a58
+Pie,0801f60a-a20d-11e0-a597-12313d172a81
+Pigeon Pea,a0b29506-8243-11e0-96db-001a6bce9a58
+Nettles,0391646e-8e6e-11e0-81f5-001cb3fffea2
+Black Bean,4f48ff8e-8243-11e0-96db-001a6bce9a58
+Flake Salt,73ca45fa-8245-11e0-96db-001a6bce9a58
+Dabberlocks (winged kelp) Seaweed,44b4c11a-8244-11e0-96db-001a6bce9a58
+Cardoon,8c2f1588-8242-11e0-96db-001a6bce9a58
+Rice,7302f2ce-8241-11e0-96db-001a6bce9a58
+Maple Syrup,062e6bdc-8242-11e0-96db-001a6bce9a58
+Soft Red Winter Wheat,9aad45cc-8241-11e0-96db-001a6bce9a58
+Fiddlehead,04bbb8a8-8243-11e0-96db-001a6bce9a58
+Orange,06a8bcee-8241-11e0-96db-001a6bce9a58
+Watermelon,4260e48c-8241-11e0-96db-001a6bce9a58
+Beet,5f43db80-8242-11e0-96db-001a6bce9a58
+Kai-Lan/Gai-Lan (Chinese Broccoli),276824fe-8243-11e0-96db-001a6bce9a58
+Chinese Cabbage,dd902fb6-8242-11e0-96db-001a6bce9a58
+Brazil Nut,d00ba844-8241-11e0-96db-001a6bce9a58
+Milk,5a8c8e9c-8239-11e0-96db-001a6bce9a58
+White Tea,b8ef11b0-823b-11e0-96db-001a6bce9a58
+Spirit,3ae96be4-823b-11e0-96db-001a6bce9a58
+Berry,9a41640c-8240-11e0-96db-001a6bce9a58
+Chicken,e59e4210-8238-11e0-96db-001a6bce9a58
+Cheese,2edb5f12-8239-11e0-96db-001a6bce9a58
+Juice,8ff0563e-823b-11e0-96db-001a6bce9a58
+Grape,c98e3848-8240-11e0-96db-001a6bce9a58
+Marsala,6661b0ce-823b-11e0-96db-001a6bce9a58
+Beverage,1188284e-823b-11e0-96db-001a6bce9a58
+Guanciale,cddac946-ff5b-11e0-b567-001a6bce9a58
+Imitation Crab,701737cc-f957-11e0-b213-001a6bce9a58
+Early Girl Tomato,792d0416-db09-11e0-9bf8-12313d2561cd
+King Crab,7148b896-f957-11e0-b213-001a6bce9a58
+Chicory,9fe3f134-a592-11e0-99de-12313d14fea2
+Rainbow Trout,70c35b56-f957-11e0-b213-001a6bce9a58
+Green Onions,9b93ae3a-a592-11e0-99de-12313d14fea2
+Spanish Mackerel,71057ea0-f957-11e0-b213-001a6bce9a58
+Bluefish,70492c28-f957-11e0-b213-001a6bce9a58
+Peppermint,a307aa5e-a592-11e0-99de-12313d14fea2
+Urchin,716e5790-f957-11e0-b213-001a6bce9a58
+Boston Leaf,425a2e00-aefe-11e0-bd3b-12313d21a4a4
+Spring Onion (Scallion or Welsh Onion),719d77aa-f957-11e0-b213-001a6bce9a58
+Celery Root (Celeriac),b9ee597a-ff5b-11e0-b567-001a6bce9a58
+Passionfruit,b03d285c-ff5b-11e0-b567-001a6bce9a58
+Maitake Mushroom,fe68f398-a877-11e0-bc58-12313b072d11
+Brandywine Tomato,77d679da-db09-11e0-9bf8-12313d2561cd
+Striped Marlin,7128e5f2-f957-11e0-b213-001a6bce9a58
+Watermelon Radish,c4241506-ff5b-11e0-b567-001a6bce9a58
+Grenadier,70e9d0b0-f957-11e0-b213-001a6bce9a58
+Petrale Sole,708d00ec-f957-11e0-b213-001a6bce9a58
+Southern Tuna,7067211a-f957-11e0-b213-001a6bce9a58
