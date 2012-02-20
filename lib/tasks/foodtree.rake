@@ -14,7 +14,7 @@ namespace :db do
       
       n = 1
       food_types.each do |ft|
-        name = ft.delete('Name')
+        name = ft.delete('name')
 
         
         if Thing.where(:name => name).empty?
