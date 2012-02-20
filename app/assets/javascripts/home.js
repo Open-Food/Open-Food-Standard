@@ -22,6 +22,7 @@ $(document).ready(function() {
     });
 
     this.get("#/search", function(context) {
+      $("#show_thing").hide();
       $("#things").text("");
       console.log(this.params["name"]);
       this.load("things.json?name="+this.params["name"], {}).then(function(things){
