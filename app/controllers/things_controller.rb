@@ -5,7 +5,7 @@ class ThingsController < ApplicationController
     name = params[:name]
 
     if name
-      @things = Thing.where(:name => name)
+      @things = Thing.where("name LIKE ?", "%#{name}%")
     else
       @things = Thing.limit(10)
     end
