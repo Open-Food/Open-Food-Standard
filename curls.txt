@@ -1,0 +1,19 @@
+**GET
+
+curl localhost:3000/things
+curl localhost:3000/things/777
+curl localhost:3000/things?name=fish
+
+**POST
+
+---- with no properties
+curl localhost:3000/things \
+-X POST \
+-F "thing[name]=testing" 
+
+
+---- with properties
+curl localhost:3000/things \
+-X POST \
+-F "thing[name]='testing again'"
+-F "thing[properties]="
