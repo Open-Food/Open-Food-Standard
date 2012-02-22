@@ -32,6 +32,15 @@ $(document).ready(function() {
       });
       $("#things").show();
     });
+    
+    this.get("#/new/things", function(context) {
+      $("#things").hide();
+      $("#show_thing").hide();
+      $("#search").hide();
+      context.render("templates/new_thing.template").replace("#new_thing");
+      $("#new_thing").show();
+    });
+
   });
 
   app.run("#/");
