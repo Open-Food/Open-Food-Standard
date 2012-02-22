@@ -12,7 +12,11 @@ class ThingsController < ApplicationController
 
     respond_with @things
   end
-
+  
+  def new
+    respond_with Thing.new
+  end
+  
   def create
     thing = Thing.create!(params[:thing].slice(:name))
     if params[:thing][:properties]
@@ -25,5 +29,6 @@ class ThingsController < ApplicationController
 
   def show
     respond_with Thing.find(params[:id])
-  end
+  end  
+      
 end

@@ -33,14 +33,19 @@ $(document).ready(function() {
       $("#things").show();
     });
     
-    this.get("#/new/things", function(context) {
+    this.get("#/things/new", function(context) {
       $("#things").hide();
       $("#show_thing").hide();
       $("#search").hide();
-      context.render("templates/new_thing.template").replace("#new_thing");
+      this.load("things/new.json").then(function(thing) {
+        context.render("templates/new_thing.template", {thing:thing}).replace("#new_thing");
+      })
       $("#new_thing").show();
     });
-
+    
+    // this.post("#/things", function(context) {
+    //   
+    // })
   });
 
   app.run("#/");
