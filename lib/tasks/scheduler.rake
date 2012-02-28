@@ -10,7 +10,7 @@ task :sync_food_things => :environment do
     thing = Thing.find_or_initialize_by_name(name)
     if thing.new_record?
       thing.save
-      puts "created #{thing.name}"
+      puts "CREATED #{thing.name}"
       uuid = thing.properties.create(:name => 'open_food_uuid', :value => UUIDTools::UUID.timestamp_create().to_s)
       puts "created uuid for #{thing.name}: #{uuid.value}"
       row.each_with_index do |property, index|
@@ -19,6 +19,10 @@ task :sync_food_things => :environment do
           puts "created property: #{header[index + 1]} with value: #{property}"
         end
       end
+    else
+      puts "FOUND #{thing.name}"
+      row.each_with_index do |property, index|
+      end 
     end
   end
   puts "done"
