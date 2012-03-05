@@ -4,6 +4,8 @@
 This is a description of a source of supply for an element in the food system.
 This could be a community garden, urban farm, a grocery store, a community kitchen, restaurant, etc.
 
+## Status
+Not complete
 
 ## Format
 Field Name

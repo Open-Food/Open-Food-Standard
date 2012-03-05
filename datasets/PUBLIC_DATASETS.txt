@@ -1,0 +1,13 @@
+These are food datasets that we have found which may be useful.
+
+## Foods
+
+### Freebase Foods (foods, links to nutrient information)
+### Foodista (foods, recipes)
+### Food Genome (foods, categories, recipes, colors and more)
+
+
+## Nutrition
+
+### USDA National Nutrient Database
+
