@@ -28,7 +28,6 @@ class FoodsController < ApplicationController
   end
 
   def show
-    respond_with Food.find(params[:id])
-  end  
-      
+    respond_with Food.where(:uuid => params[:id]).first
+  end
 end

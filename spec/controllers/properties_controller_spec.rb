@@ -26,7 +26,7 @@ describe PropertiesController do
       end
 
       it 'should respond with the food in json' do
-        json_response["id"].should == @apple.id
+        json_response["uuid"].should == @apple.uuid
       end
     end
   end

@@ -22,6 +22,11 @@ describe Food do
     Food.create(@attr).uuid.should_not be_nil
   end
 
+  it 'should use the UUID as the parameter for URIs' do
+    food = Food.create(@attr)
+    food.uuid.should == food.to_param
+  end
+
   describe "a food with a property" do
     before do
       @food = Food.create(@attr)

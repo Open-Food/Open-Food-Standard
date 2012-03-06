@@ -2,7 +2,7 @@ class PropertiesController < ApplicationController
   respond_to :json
 
   def create
-    food = Food.find(params[:food_id])
+    food = Food.find_by_uuid(params[:food_id])
     if food
       params[:properties].each do |property|
         food.properties.create(property)

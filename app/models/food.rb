@@ -10,8 +10,12 @@ class Food < ActiveRecord::Base
     super(options)
   end
 
+  def to_param
+    self.uuid
+  end
+
   private
   def set_uuid
-    self.uuid = UUIDTools::UUID.timestamp_create
+    self.uuid = UUIDTools::UUID.timestamp_create.to_s
   end
 end

@@ -27,9 +27,9 @@ describe FoodsController do
       end
     end
 
-    describe 'on GET to #show with a food id' do
+    describe 'on GET to #show with a valid food' do
       before do
-        get :show, :id => @tomato.id, :format => :json
+        get :show, :id => @tomato.to_param, :format => :json
       end
 
       it 'should respond with the json representation of the food' do
