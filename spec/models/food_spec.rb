@@ -27,6 +27,11 @@ describe Food do
     food.uuid.should == food.to_param
   end
 
+  it 'should not return the db id in the json' do
+    food = Food.create(@attr)
+    ActiveSupport::JSON.decode(food.to_json)["id"].should be_nil
+  end
+
   describe "a food with a property" do
     before do
       @food = Food.create(@attr)

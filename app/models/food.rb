@@ -5,13 +5,12 @@ class Food < ActiveRecord::Base
 
   before_validation :set_uuid, :on => :create
 
-  def to_json(options = {})
-    options[:include] = :properties
-    super(options)
-  end
-
   def to_param
     self.uuid
+  end
+
+  def as_json(options)
+    super(:except => [:id], :include => :properties)
   end
 
   private
