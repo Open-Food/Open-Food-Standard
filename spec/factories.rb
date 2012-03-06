@@ -1,4 +1,4 @@
-Factory.define(:thing) do |f|
+Factory.define(:food) do |f|
   f.name { Faker::Lorem.words(1) }
 end
 

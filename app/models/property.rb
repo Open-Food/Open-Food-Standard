@@ -1,4 +1,4 @@
 class Property < ActiveRecord::Base
-  belongs_to :thing  
-  validates_presence_of :thing, :name, :value
+  belongs_to :food
+  validates_presence_of :food, :name, :value
 end
