@@ -18,6 +18,10 @@ describe Food do
     Food.new(@attr.merge(:name => "apple")).should_not be_valid
   end
 
+  it 'should create a uuid for it' do
+    Food.create(@attr).uuid.should_not be_nil
+  end
+
   describe "a food with a property" do
     before do
       @food = Food.create(@attr)
