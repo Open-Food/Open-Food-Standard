@@ -22,7 +22,7 @@ describe FoodsController do
 
       it 'should respond with a JSON representation of a food found' do
         json_response.size.should == 1
-        json_response.first["id"].should == @tomato.id
+        json_response.first["uuid"].should == @tomato.uuid
         json_response.first["name"].should == @tomato.name
       end
     end
