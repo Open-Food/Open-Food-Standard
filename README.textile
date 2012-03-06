@@ -17,15 +17,15 @@ The primary focus was to gather as much data on an item, easily put it into one 
 
 http://open-food.heroku.com 
 
-## Get things by name:
-HTTP GET to /things.json
+## Get Foods by name:
+HTTP GET to /foods.json
 Example json to send
 {“name” : “apple” }
 
-note: if no name parameter is provided the first ten things is returned.
+note: if no name parameter is provided the first ten foods is returned.
 
 ## Create a thing with properties
-HTTP POST to /things.json
+HTTP POST to /foods.json
 Example json to post:
 {“thing” :  { “name” : “Apple”, 
   “properties” : [
@@ -35,7 +35,7 @@ Example json to post:
 }
 
 ## You can add properties to an existing thing:
-HTTP POST to /things/{thing_id}/properties.json
+HTTP POST to /foods/{food_id}/properties.json
 Example json to post:
 { “properties” : 
 [
@@ -45,7 +45,7 @@ Example json to post:
 }
 
 ## View a thing and it’s properties
-HTTP GET to /things/{thing_id}.json
+HTTP GET to /foods/{food_id}.json
 Responds with json representation of the thing
 
 ## Things to do
