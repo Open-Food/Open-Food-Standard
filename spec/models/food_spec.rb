@@ -45,4 +45,22 @@ describe Food do
       parsed_food["properties"].first["name"].should == @property_one.name
     end
   end
+
+  describe "add a property to a food" do
+    before do
+      @food = Food.create(@attr)
+      @property_to_add = Factory.attributes_for(:property)
+      @food.add_property(@property_to_add)
+    end
+
+    it 'should add the property' do
+      @food.properties.count.should == 1
+      @food.properties.first.name.should == @property_to_add[:name]
+    end
+
+    it "shouldn't add the property again" do
+      @food.add_property(@property_to_add)
+      @food.properties.count.should == 1
+    end
+  end
 end

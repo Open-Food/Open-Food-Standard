@@ -5,6 +5,12 @@ class Food < ActiveRecord::Base
 
   before_validation :set_uuid, :on => :create
 
+  def add_property(attributes)
+    unless self.properties.collect(&:name).include?(attributes[:name])
+      self.properties << Property.new(attributes)
+    end
+  end
+
   def to_param
     self.uuid
   end
