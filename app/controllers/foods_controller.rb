@@ -2,15 +2,13 @@ class FoodsController < ApplicationController
   respond_to :json
 
   def index
-    name = params[:name]
+    @foods = Food
 
-    if name
-      @foods = Food.where("name LIKE ?", "%#{name}%")
-    else
-      @foods = Food.limit(10)
+    if name = params[:name]
+      @foods = @foods.where("name LIKE ?", "%#{name}%")
     end
 
-    respond_with @foods
+    respond_with @foods.page(params[:page]).per(25)
   end
   
   def new

@@ -39,6 +39,32 @@ describe FoodsController do
     end
   end
 
+  describe "Given more than a page of foods" do
+    before do
+      27.times { Factory(:food) }
+    end
+
+    describe "on GET to #index via json" do
+      before do
+        get :index, :format => :json
+      end
+
+      it 'should only return the first page of foods' do
+        json_response.size.should == 25
+      end
+    end
+
+    describe "on GET to #index for page 2 via json" do
+      before do
+        get :index, :page => 2, :format => :json
+      end
+
+      it 'should return page 2' do
+        json_response.size.should == 2
+      end
+    end
+  end
+
   describe "on POST to #create via json with valid items" do
     before do
       post :create, :food => {:name => "Apple"}, :format => :json

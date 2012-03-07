@@ -17,6 +17,7 @@ gem "guard-rspec", ">= 0.4.3", :group => :development
 gem "pg"
 gem 'httparty'
 gem 'uuidtools'
+gem "kaminari"
 
 group :test, :development do
   gem "ruby-debug19"
