@@ -1,17 +1,147 @@
-<p>What you mean a tomato?</p>
+<!-- HEADER -->
+  <header class="container">
 
-<div id="search">
-  <form action="#/search" method="get">
-    <input name='name' type='text' placeholder='search for a food thing' size='40'/>
-    <input type='submit' value='Search'/>
-  </form>
-</div>
 
-<div id="main">
-</div>
-<h2> Data </h2>
-<ul id="things">
-</ul>
+    <h1>Open Food</h1>
+    <div class="tagline">An Open Data movement<br /> for our local food systems</div>
+    <!-- TABS -->
+    <div id="tabs">
+      <ul class="buttons">
+        <li><a href="#api">API & Data</a></li>
+        <li><a href="#blog">Blog & News</a></li>
+        <li><a href="#get_involved">Get Involved</a></li>
+      </ul>
+    </div>
+  </header>
 
-<div id="show_thing"></div>
-<div id="new_thing"></div>
+  <!-- Home -->
+  <div id="home" class="container section">
+    <div class="image"><%= image_tag("logo.png") %></div>
+    <p>This is the home for our Open Food Data movement. We are working towards an open standard for food information online. 
+
+    <p>The people involved in this are from all over the world, and believe that while there is an explosion
+     in the number of services created to help people make better choices about how we produce, consume, 
+     and interact with food, challenges related to the accuracy and completeness of data hamper the rate of innovation. </p>
+
+    <p>By sharing information about and making it easier to communicate about food in our food systems, 
+    we hope to enable the many organizations and communities working to improve how we eat.</p>
+
+    <h3>Open Food Data Standard</h3>
+    <p>The open food data standard aims to be participatory, and to promote a better food system by 
+    supporting information sharing to enhance the work of the many people who strive to improve access to 
+    healthy local food, promote small farms and food businesses, and many other critical features of a healthy food system.</p>
+  </div>
+
+
+  <!-- Screenshots -->
+  <div id="screenshots" class="container section">
+    <div class="grid">
+      <div class="image"><img src="images/open-food-api.png" /></div>
+    </div>
+  </div>
+
+  <!-- API -->
+  <div id="api" class="container section">
+    <h2 class="title">API & Data</h2> 
+    <dl>
+      <dt><a href="http://api.open-food.org/">Open Food API</a></dt>
+        <dd>
+        <ul>
+          <li>An early stage API. Provides a list of Foods with UUID's.</li>
+          <li>There are over 7,000 foods listed. </li>
+          <li>We plan to branch out to share more kinds of data that can be linked to the Foods. </li>
+          <li>If you notice foods are missing, you can help improve the data by becoming a Data Captain.</li>
+          <li><a href="https://raw.github.com/Open-Food/Open-Food-Standard/master/README.textile"  class="raw-text-link">API Documentation</a></li>
+          <li>Code on <a href="https://github.com/Open-Food/Open-Food-Standard">github</a></li>
+        </ul>  
+      </dd>
+
+      <dt>Use Cases</dt>
+        <dd>We have identified several <a href="https://raw.github.com/Open-Food/Open-Food-Standard/master/USECASES.txt"  class="raw-text-link">use cases</a> for the Open Food API</dd>
+
+
+      <dt>Data</dt>
+        <dd>
+          <ul>
+            <li><a href="https://raw.github.com/Open-Food/Open-Food-Standard/master/datasets">Browse Data</a></li>
+            <li><a href="https://raw.github.com/Open-Food/Open-Food-Standard/master/datasets/DATASETS.txt" class="raw-text-link">Open Food Datasets</a> We are storing data for the API in Github.</li>
+            <li>In addition to the datasets that we are collaboratively creating & cleaning, there are many
+              <a href=" https://github.com/Open-Food/Open-Food-Standard/wiki/Suggested-Data-Sets">other food datasets.</a></li>
+          </ul>
+        </dd>       
+    </dl>   
+  </div>
+
+
+
+
+   <!-- BLOG & News -->
+  <div id="blog" class="container section">
+    <h2 class="title">Blog & News</h2>
+
+
+    <dl>
+      <dt><p>We have a Tumblr <a href="http://blog.open-food.org">blog</a>.</p></dt>
+
+      <dt>Timely Information</dt>
+      <dd>
+        <ul>
+          <li><a href="http://schedule.sxsw.com/2012/events/event_IAP9904">SXSW Panel March 11, 2012 11 a.m. Austin, TX</a></li>
+          <li><a href="http://blog.open-food.org">Get involved: Spring 2012</a></li>
+        </ul>
+      </dd>
+    </dt>
+  </div>
+
+   <!-- GET INVOLVED -->
+  <div id="get_involved" class="container section">
+    <h2 class="title">Get Involved</h2>
+    <dl>
+      <dt><a href="http://groups.google.com/group/open-food?pli=1">Google Group</a></dt>
+        <dd>Join the Google Group and share ideas, data and help out.</dd>
+      
+      <dt><a href="https://github.com/Open-Food">GitHub</a></dt>
+        <dd>All of the data and tools are available on GitHub.</dd>
+ 
+
+      <dt>Contribute Data & Code</dt>
+        <dd>Our goal is to have real-time integration of new data, but for now we have a manual process. If you have changes to the code, you can send {us} a diff file.</dd>
+      
+      <dt><a href="https://github.com/Open-Food/Open-Food-Standard/wiki/_pages">Wiki</a></dt>
+        <dd>Our working project notes.</dd>
+
+      <dt>Become a Data Captain</dt>
+        <dd>Want to help with the list of Foods?</dd>
+            
+      <dt>Community</dt>
+        <dd>
+        <p>These food projects have committed to using the Food API in a project.</p>
+        <ul>
+          <li><a href="http://foodtree.com">FoodTree</a></li>
+          <li><a href="http://cleanplates.com">Clean Plates</a></li>
+          <li><a href="http://foodcards.com">FoodCards</a></li>
+        </ul>
+        <p>Contact us to let us know if you would like to pledge to use the API in your project.</p>
+        
+        </dd>
+
+      <dt>People & Organizers</dt>
+        <dd>
+          <p>This Open Food project is a volunteer run project, and people in various food companies allocate a little bit of their time to making the project successful.</p>
+          
+          <p>Early participants in Open Food efforts:</p>
+          <p><a href="http://www.chachaville.com/">Chacha Sikes</a> </p>
+          <p><a href="http://foodtree.com">Anthony Nicalo</a> </p>
+          <p><a href="http://www.windowfarms.org/">Britta Riley</a></p>
+          <p><a href="http://foodtechconnect.com">Danielle Gould</a> </p>
+          <p><a href="http://www.cleanplates.com/">Niles Brooks</a></p>
+          <p><a href="https://twitter.com/#!/bmann">Boris Mann</a> </p>
+          <p><a href="https://twitter.com/#!/kalv">Kalv Sandhu</a> </p>
+          <p><a href="http://foodtree.com">Derek Shanahan</a></p>
+          <p><a href="https://twitter.com/#!/mkhezr">Maryam Khezrzadeh</a></p>
+          <p><a href="https://twitter.com/#!/carchrae">Tom Carchrae</a></p>
+          <p>and many others…</p>
+      </dd>      
+    </dl>
+  </div>
+

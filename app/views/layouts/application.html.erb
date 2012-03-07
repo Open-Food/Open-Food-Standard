@@ -1,29 +1,28 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Open Food Data</title>
-    <meta name="description" content="">
-    <meta name="author" content="">
-    <%= stylesheet_link_tag    "application" %>
-    <%= javascript_include_tag "application" %>
-    <%= csrf_meta_tags %>
-  </head>
-  <body>
-    <div id="container" class="container">
-      <header>
-        <h1> Open Food Data</h1>
-        <%- flash.each do |name, msg| -%>
-          <%= content_tag :div, msg, :id => "flash_\#{name}" if msg.is_a?(String) %>
-        <%- end -%>
-      </header>
-      <div id="main" role="main">
-        <%= yield %>
-      </div>
-      <footer>
-      </footer>
-    </div> <!--! end of #container -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+  <title>Open Food</title>
+  <%= stylesheet_link_tag    "application" %>
+  <%= javascript_include_tag "application" %>
+  <%= csrf_meta_tags %>
+
+  <link href='http://fonts.googleapis.com/css?family=Chivo' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="css/ui-lightness/jquery-ui-1.8.17.custom.css" />
+
+  <script src="js/jquery-1.7.1.min.js"></script>
+  <script src="js/jquery.address-1.4.min.js"></script>
+  <script src="js/jquery-ui-1.8.17.custom.min.js"></script>
+  <script src="js/openfood_web.js"></script>
+</head>
+
+<body>
+  <%= yield %>
+
+  <footer>
+    <p>Open Food 2011 - 2012</p>
+  </footer>
+<!--   <script src="js/google.js"></script> -->
   </body>
 </html>
