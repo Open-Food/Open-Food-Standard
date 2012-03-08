@@ -16,7 +16,9 @@ namespace :db do
       food_types.each do |ft|
         name = ft.delete('name')
 
-        if Food.where(:name => name).empty?
+        if food = Food.where(:name => name).first
+          food.add_property(:name => 'foodtree_uuid', :value => ft.delete('uuid'))
+        else
           puts "\t #{n} - Adding '#{name}' to OpenFood"
           food = Food.create!(:name => name)
           food.add_property(:name => 'foodtree_uuid', :value => ft.delete('uuid'))
