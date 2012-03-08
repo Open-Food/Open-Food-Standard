@@ -18,15 +18,22 @@ body {
 }
 
 a {
-  color: #A8A165;
+  border-bottom: dotted 1px;
+  border-bottom-color: #ae866d; 
+  color: #660008;
   text-decoration: none;
   font-weight: normal;
   text-transform: uppercase;
   display: inline-block;
 }
 
+#tabs a {
+  border-bottom: none;
+}
+
 a:hover {
   display: inline-block;
+  border-bottom-color:#DBCCCE;
   -webkit-border-radius: 2em;
   -moz-border-radius: 2em;
   border-radius: 2em;
