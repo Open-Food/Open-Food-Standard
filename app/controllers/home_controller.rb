@@ -4,4 +4,7 @@ class HomeController < ApplicationController
 
   def api_docs
   end
+
+  def data_captains
+  end
 end

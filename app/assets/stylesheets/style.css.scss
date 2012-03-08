@@ -43,6 +43,16 @@ a:hover {
   box-shadow:0 0 2em rgba(207, 244, 91, 0.5); 
 }
 
+a.image, a.image:hover {
+  border: none;
+}
+
+a.image img {
+}
+
+a.label {
+}
+
 ul {
   margin: 0 0 2em 0;
   padding: 0;
@@ -216,3 +226,22 @@ header.container:hover {
   width: 100%;
 }
 
+/* Data Captains Styles */
+.captains h4, .captains ul {
+  margin: 0;
+  padding: 0;
+  
+}
+.captains h4 {
+  margin: 10px 0 5px 0;
+}
+
+.captains ul li {
+  list-style: none;
+  margin-left: 10px;
+  font-size: 90%;
+}
+
+.captains ul a {
+  border-bottom-color:#efefef;
+}
