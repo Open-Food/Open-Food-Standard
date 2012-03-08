@@ -1,0 +1,16 @@
+.api_docs {
+  color: #0E0811;
+  background-color: #EFE1E2;
+  padding:2em 5em 3em 5em;
+
+  pre {
+    background-color:white;
+    border:1px solid #ccc;
+    padding:20px;
+    white-space: pre-wrap;       /* css-3 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;
+  }
+}

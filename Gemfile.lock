@@ -51,6 +51,7 @@ GEM
       railties (>= 3.0.0)
     faker (1.0.1)
       i18n (~> 0.4)
+    github-markup (0.7.1)
     guard (0.8.8)
       thor (~> 0.14.6)
     guard-bundler (0.1.3)
@@ -115,6 +116,7 @@ GEM
       rake
     rdoc (3.11)
       json (~> 1.4)
+    redcarpet (2.1.0)
     rspec (2.8.0.rc1)
       rspec-core (= 2.8.0.rc1)
       rspec-expectations (= 2.8.0.rc1)
@@ -166,6 +168,7 @@ DEPENDENCIES
   coffee-rails (~> 3.1.1)
   factory_girl_rails (>= 1.4.0)
   faker (= 1.0.1)
+  github-markup
   guard (>= 0.6.2)
   guard-bundler (>= 0.1.3)
   guard-rails (>= 0.0.3)
@@ -176,6 +179,7 @@ DEPENDENCIES
   mysql
   pg
   rails (= 3.1.3)
+  redcarpet
   rspec-rails (>= 2.8.0.rc1)
   ruby-debug19
   sass-rails (~> 3.1.5)

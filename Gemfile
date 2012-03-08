@@ -18,6 +18,8 @@ gem "pg"
 gem 'httparty'
 gem 'uuidtools'
 gem "kaminari"
+gem "github-markup"
+gem "redcarpet"
 
 group :test, :development do
   gem "ruby-debug19"

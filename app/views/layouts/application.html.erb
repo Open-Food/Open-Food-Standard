@@ -11,7 +11,7 @@
   <link href='http://fonts.googleapis.com/css?family=Chivo' rel='stylesheet' type='text/css'>
 </head>
 
-<body>
+<body class='<%= request.path.gsub('/','') %>'>
   <%= yield %>
 
   <footer>
