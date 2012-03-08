@@ -11,26 +11,26 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120306231614) do
+ActiveRecord::Schema.define(:version => 20120308174356) do
 
   create_table "foods", :force => true do |t|
     t.string   "name"
+    t.string   "uuid"
     t.datetime "created_at"
     t.datetime "updated_at"
-    t.string   "uuid"
   end
 
-  add_index "foods", ["name"], :name => "index_things_on_name"
+  add_index "foods", ["name"], :name => "index_foods_on_name"
   add_index "foods", ["uuid"], :name => "index_foods_on_uuid"
 
   create_table "properties", :force => true do |t|
-    t.datetime "created_at"
-    t.datetime "updated_at"
     t.string   "name"
     t.string   "value"
     t.integer  "food_id"
+    t.datetime "created_at"
+    t.datetime "updated_at"
   end
 
-  add_index "properties", ["food_id"], :name => "index_properties_on_thing_id"
+  add_index "properties", ["food_id"], :name => "index_properties_on_food_id"
 
 end

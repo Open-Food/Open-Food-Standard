@@ -1,12 +1,13 @@
 class CreateProperties < ActiveRecord::Migration
   def up
     create_table :properties do |t|
-      t.timestamps
       t.string :name
       t.string :value
-      t.integer :thing_id
+      t.integer :food_id
+      t.timestamps
     end
-    add_index :properties, :thing_id
+
+    add_index :properties, :food_id
   end
 
   def down
