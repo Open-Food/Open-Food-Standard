@@ -16,7 +16,7 @@ class Food < ActiveRecord::Base
   end
 
   def as_json(options)
-    super(:except => [:id], :include => :properties)
+    super(:except => [:id], :include => {:properties => {:except => [:food_id]}})
   end
 
   private

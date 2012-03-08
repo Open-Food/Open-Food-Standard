@@ -43,6 +43,7 @@ describe Food do
       parsed_food = ActiveSupport::JSON.decode(json_food)
       parsed_food["properties"].size.should == 1
       parsed_food["properties"].first["name"].should == @property_one.name
+      parsed_food["properties"].first["food_id"].should be_nil
     end
   end
 
