@@ -5,6 +5,7 @@ These are food datasets that we have found which may be useful.
 ### Freebase Foods (foods, links to nutrient information)
 ### Foodista (foods, recipes)
 ### Food Genome (foods, categories, recipes, colors and more)
+### Kasabi Food Dataset (foods, recipes, cousines, tools, techniques, chefs and more)
 
 
 ## Nutrition
